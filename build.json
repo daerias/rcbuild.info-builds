@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Lumenier/QAV210-CHARPU",
+    "esc": "Favorite/LittleBee-20A",
+    "motor": "EMAX/MT2204-2300KV",
+    "fc": "Seriously-Pro/SP-Racing-F3-(Acro)",
+    "prop": [
+      "diaton"
+    ],
+    "arm": "",
+    "battery": [
+      "Turnigy/nano-tech-1500mah-3S-35~70C-Lipo-Pack"
+    ],
+    "osd": "",
+    "receiver": "Spektrum/DX6-6-Channel-DSMX®-Transmitter-with-AR610-Receiver",
+    "flightcam": "",
+    "hqcam": "Xiaomi/Yi-Action-Camera-1080P-60FPS-(White)",
+    "videotx": "",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
