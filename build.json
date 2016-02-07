@@ -1,21 +1,21 @@
 {
   "config": {
     "frame": "Lumenier/QAV210-CHARPU",
-    "esc": "Favorite/LittleBee-20A",
-    "motor": "EMAX/MT2204-2300KV",
-    "fc": "Seriously-Pro/SP-Racing-F3-(Acro)",
+    "esc": "Flyduino KISS 24A RE",
+    "motor": "Rotorgeeks/2204-2300kv",
+    "fc": "UnknownManufacturer/flyduino/KISS-FC---32bit-Flight-Controller",
     "prop": [
-      "diaton"
+      "HQProp/(Normal)-Triple-blades-5x4x3-Black"
     ],
     "arm": "",
     "battery": [
-      "Turnigy/nano-tech-1500mah-3S-35~70C-Lipo-Pack"
+      "Turnigy/nano-tech-1300mAh-4S-45~90C-Lipo-Pack"
     ],
     "osd": "",
-    "receiver": "Spektrum/DX6-6-Channel-DSMX®-Transmitter-with-AR610-Receiver",
+    "receiver": "Spektrum DX6 6-Channel DSMX® Transmitter with LemonRX+Sat",
     "flightcam": "",
     "hqcam": "Xiaomi/Yi-Action-Camera-1080P-60FPS-(White)",
-    "videotx": "",
+    "videotx": "Boscam/BOS600---600mw-32-channel-5.8ghz-Video-Transmitter---RP-SMA",
     "blackbox": "",
     "voltagereg": ""
   },
